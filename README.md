@@ -13,3 +13,9 @@ The questions that were answered here are
   8) What is the Total Population Vs. Vaccinations?
   9) Finding out the Rolling people Vaccinated.
   10) What is the Percentage of Population that has recieved at least one Covid Vaccine
+
+
+**Tools used:**
+1. MS-Excel (For data validation and checking for data consistency)
+2. Microsoft SQL Server (For data cleaning and interpretation)
+3. Tableau (For creating dashboards)
