@@ -237,12 +237,3 @@ From PortfolioProject..CovidDeaths
 Group by Location, Population, date
 order by PercentPopulationInfected desc
 
-
-
-Tableau Visualization link:
-
-https://public.tableau.com/app/profile/gokul.a7254/viz/CovidDataAnalaysisDashboard/Dashboard1
-
-
-
-.
