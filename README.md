@@ -2,6 +2,8 @@
 This Repository contains the SQL queries of the Covid data set until June 2022, which will help us to find out the Rolling People who are vaccinated all over the world.
 The data is derived from the website https://ourworldindata.org/covid-deaths
 
+Dashboard link: https://public.tableau.com/views/CovidDataAnalaysisDashboard_16572814522170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 The questions that were answered here are 
   1) What is the Total Cases Vs. Total Deaths in tearms of percentage 
   2) And to find out "How many % of people dies with the increasing in total_cases?"
